@@ -1,3 +1,16 @@
+  
+//**************************************************************************************************
+// CLASS: OnlineStudent
+//
+// DESCRIPTION
+// OnlineStudent is a direct subclass of the abstract class Student. It overrides the method calcTuition
+// and adds an instance variable called TechFee.
+//
+// GROUP: G
+// AUTHOR 1: Addison Corey, tjcorey, addison.corey@asu.edu
+// AUTHOR 2: Keatyn Garton, kgarton, kgarton@asu.edu
+// AUTHOR 3: Jonathan Kilgore, jpkilgor, jpkilgor@asu.edu
+//**************************************************************************************************
 public class OnlineStudent extends Student {
     private boolean TechFee;
 
