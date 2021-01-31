@@ -1,9 +1,8 @@
 //**************************************************************************************************
-// CLASS: Main
+// CLASS: Sorter
 //
 // DESCRIPTION
-// The Main class for Project 2.
-//
+// Implements the insertion sort algorithm to sort an ArrayList<> of Students.
 //
 // GROUP: G
 // AUTHOR 1: Addison Corey, tjcorey, addison.corey@asu.edu
